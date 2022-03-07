@@ -35,7 +35,7 @@
     <a href="https://twitter.com/EdmanManigat"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
     <a href="https://www.linkedin.com/in/ed-edman-manigat-a2955a135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
     <a href="https://www.instagram.com/ed_edman_manigat/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a>
-    <a href="https://www.cypherweb.xyz/"><img src="https://img.shields.io/badge/-Portfolio-9cf?&style=for-the-badge" height="25" /></a>
+    <a href="https://github.com/EdManDev"><img src="https://img.shields.io/badge/-Portfolio-9cf?&style=for-the-badge" height="25" /></a>
 </p>
 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdManDev&theme=radical)
