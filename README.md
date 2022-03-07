@@ -1,4 +1,16 @@
 # Welcome, to EdMan Developer 👋
+
+![Design and Development](./README.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdManDev)](https://github.com/EdManDev/github-readme-stats)
+
+
+## Skills and Experience
+
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS, Python3, PHP, MYSQL, C++, Golang, Typescript
+
 ## Highlights
 
 |  Front-end  | Back-end   |API Development|
@@ -38,4 +50,3 @@
     <a href="https://github.com/EdManDev"><img src="https://img.shields.io/badge/-Portfolio-9cf?&style=for-the-badge" height="25" /></a>
 </p>
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdManDev&theme=radical)
