@@ -38,4 +38,4 @@
     <a href="https://www.cypherweb.xyz/"><img src="https://img.shields.io/badge/-Portfolio-9cf?&style=for-the-badge" height="25" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app username=edmandev&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmanvev&theme=radical)
