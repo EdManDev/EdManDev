@@ -41,8 +41,7 @@
 * I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
 * My experience tells everybody who I am, what I can do for your project.
 
-* A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am Bluesky66.
-
+* A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work
 <p>
     <a href="https://twitter.com/EdmanManigat"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
     <a href="https://www.linkedin.com/in/ed-edman-manigat-a2955a135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
