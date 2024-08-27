@@ -6,6 +6,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdManDev\&layout=compact)
 
+![EdManDev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
+
+
 ## Skills and Experience
 
 * ⚛ React
