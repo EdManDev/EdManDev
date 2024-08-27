@@ -3,6 +3,7 @@
 ![Design and Development](./README.png)
 
 [![EdManDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdManDev)](https://github.com/EdManDev/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdManDev\&layout=compact)
 
 ## Skills and Experience
