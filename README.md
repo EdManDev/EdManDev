@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **EdMan**, a **Full-Stack & Backend Engineer** with strong professional experience building **scalable APIs and backend systems**, primarily using **FastAPI, Node.js, and modern JavaScript frameworks**.
+I’m **EdMan**, a **Full-Stack Engineer** with strong professional experience building **scalable APIs and backend systems**, primarily using **FastAPI, Node.js, and modern JavaScript frameworks**.
 
 I focus on delivering **production-ready solutions** that help businesses move faster—whether that’s payment integrations, API design, automation, or cloud-native deployments.
 
