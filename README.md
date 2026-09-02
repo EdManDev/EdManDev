@@ -4,6 +4,18 @@
 
 ---
 
+# 👨‍💻 EdMan | Software Engineer • AI/ML Engineer
+
+### **Software Engineer | AI/ML Engineer | Python | Machine Learning | Deep Learning | LLMs**
+
+I’m **EdMan**, a **Software Engineer and AI/ML Engineer** passionate about building scalable software systems, intelligent applications, and AI-powered solutions.
+
+My technical background combines **software engineering, backend development, artificial intelligence, machine learning, deep learning, data science, generative AI, LLMs, API development, cloud technologies, web development, and mobile development**.
+
+I enjoy transforming complex problems into practical technology—from designing scalable backend systems and APIs to developing **machine learning models, LLM applications, AI agents, automation workflows, and intelligent software systems**.
+
+---
+
 # 🧰 Languages & Technologies
 
 <p align="left">
@@ -43,18 +55,6 @@
 ### Core Stack
 
 **Python • PyTorch • TensorFlow • LangGraph • FastAPI • React • TypeScript • Node.js • Kotlin • Swift • PostgreSQL • MongoDB • MySQL • Redis • Docker • Git • Linux**
-
----
-
-# 👨‍💻 EdMan | Software Engineer • AI/ML Engineer
-
-### **Software Engineer | AI/ML Engineer | Python | Machine Learning | Deep Learning | LLMs**
-
-I’m **EdMan**, a **Software Engineer and AI/ML Engineer** passionate about building scalable software systems, intelligent applications, and AI-powered solutions.
-
-My technical background combines **software engineering, backend development, artificial intelligence, machine learning, deep learning, data science, generative AI, LLMs, API development, cloud technologies, web development, and mobile development**.
-
-I enjoy transforming complex problems into practical technology—from designing scalable backend systems and APIs to developing **machine learning models, LLM applications, AI agents, automation workflows, and intelligent software systems**.
 
 ---
 
