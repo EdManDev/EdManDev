@@ -2,18 +2,6 @@
 
 ![Design and Development](./README.png)
 
-[![EdManDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdManDev\&show_icons=true\&theme=tokyonight)](https://github.com/EdManDev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdManDev\&layout=compact\&theme=tokyonight)
-
----
-# 👋 Welcome to **EdMan Developer**
-
-![Design and Development](./README.png)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdManDev\&show_icons=true\&theme=tokyonight)](https://github.com/EdManDev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdManDev\&layout=compact\&theme=tokyonight)](https://github.com/EdManDev)
-
 ---
 
 # 👨‍💻 EdMan | Software Engineer • AI/ML Engineer
